@@ -1,0 +1,14 @@
+OnShelf Instance Created
+hw1.BadOperationException: Can't use returnIt in OnShelf state
+hw1.BadOperationException: Can't use shelf in OnShelf state
+Borrowed Instance Created
+Leaving State OnShelf for State Borrowed
+Leaving State Borrowed for State Borrowed
+Leaving State Borrowed for State Borrowed
+Leaving State Borrowed for State Borrowed
+GotBack Instance Created
+Leaving state Borrowed for State GotBack
+hw1.BadOperationException: Can't use extend in GotBack state
+hw1.BadOperationException: Can't use issue in GotBack state
+Leaving State GotBack for State OnShelf
+hw1.BadOperationException: Can't use extend in OnShelf state

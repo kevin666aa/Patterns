@@ -1,0 +1,25 @@
+Casey is now watching Design Patterns
+Ji is now watching Design Patterns
+Ji is now watching Deep Learning
+Leaving State OnShelf for State Borrowed
+Casey OBSERVED Design Patterns LEAVING STATE: UNOBSERVED
+Ji OBSERVED Design Patterns REACHING STATE: Borrowed
+Leaving State Borrowed for State Borrowed
+Casey is no longer watching Design Patterns
+Leaving State Borrowed for State Borrowed
+Leaving state Borrowed for State GotBack
+Ji OBSERVED Design Patterns REACHING STATE: GotBack
+Leaving State GotBack for State OnShelf
+Ji OBSERVED Design Patterns REACHING STATE: OnShelf
+hw1.BadOperationException: Can't use shelf in OnShelf state
+Leaving State OnShelf for State Borrowed
+Ji OBSERVED Deep Learning REACHING STATE: Borrowed
+Casey is now watching Deep Learning
+Leaving state Borrowed for State GotBack
+Ji OBSERVED Deep Learning REACHING STATE: GotBack
+Casey OBSERVED Deep Learning LEAVING STATE: UNOBSERVED
+Ji is no longer watching Deep Learning
+Leaving State GotBack for State OnShelf
+Casey OBSERVED Deep Learning LEAVING STATE: GotBack
+Leaving State OnShelf for State Borrowed
+Casey OBSERVED Deep Learning LEAVING STATE: OnShelf
